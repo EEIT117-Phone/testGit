@@ -3,25 +3,3 @@ edit by ben
 edit by Andrew
 dd£vddd
 12345
-ssssssssssssssssssssssssss
-abcd
-fffffffffffffffff
-<<<<<<< HEAD
-WenWenWenWenWenWenWenWenWenWen
-=======
-aaaaaaaaaaaaaaaaaaa
-ssssssssss
-12323
-
-
-88888888888888
-
-
-
-°µconflicts]
-
-fffffff
->>>>>>> 5dda1e958b62a0c46f02878d7e8e425fed45821c
-
-
-888888888888888
